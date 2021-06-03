@@ -1,0 +1,38 @@
+*{
+	padding:0; 
+	margin:0; 
+	border:0;
+}
+
+body {
+	background:white;
+}
+
+#container {
+	width:33%;
+	background:#a3a375; 
+	padding:20px;
+    
+}
+#chat_box {
+	width:30%; 
+	height:300px;
+	position:fixed;
+	top:140px;
+	overflow:auto;
+}
+#chat_data {
+	width:100%; 
+	padding:10px; 
+	margin-bottom:5px;
+	border-bottom:1px ;
+	
+}
+
+#envio {
+  position:fixed; 
+  top:50px;
+  left:20px;
+  width: 300px;
+  }
+ 
